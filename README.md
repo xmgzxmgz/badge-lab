@@ -33,3 +33,7 @@ Co-authored-by: 对方用户名 <对方邮箱>
 ```
 
 PR 被合并后即计入 Pair Extraordinaire（默认档 1 次）。自己给自己署名不会计数。
+
+## 更新日志
+
+- 2026-10-21：建立仓库；补充 Co-authored-by 写法；新增更新日志。
