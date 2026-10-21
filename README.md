@@ -23,3 +23,13 @@ GitHub 成就徽章（Achievements）速查与打卡记录。这个小仓库的�
 ## 进度
 
 - 2026-10-21：建立仓库，开始记录。
+
+## Co-authored-by 写法
+
+在 commit message 末尾追加一行，邮箱需与该 GitHub 账号绑定：
+
+```
+Co-authored-by: 对方用户名 <对方邮箱>
+```
+
+PR 被合并后即计入 Pair Extraordinaire（默认档 1 次）。自己给自己署名不会计数。
